@@ -1,0 +1,138 @@
+v113.5.4 - mrdhobbs
+-Added knowledge book item and gui textures
+-Added turtle egg item and block textures
+-Added scute and turtle helmet item textures
+-Added trident texture
+-Added nautilus shell texture
+-Added work-in-progress sea turtle mob texture
+
+v113.4.4 - mrdhobbs
+-Corrected bed textures
+-Updated Wait disc texture
+-Updated magma block texture
+-Added kelp and dried kelp item and block textures
+
+v113.3.3 - mrdhobbs
+-Added blue ice and frosted ice textures
+-Updated more filenames to 1.13 names (such as illusionist -> illusioner)
+-Updated/added map icons
+-Added totem of undying texture
+-Added fish-in-bucket item textures
+
+v113.2.2 - mrdhobbs
+-Added observer textures
+-Updated brown and white horse textures
+-Added 3 new status effects to inventory texture
+-Updated iron bars 3D models
+-Added stripped log varient textures
+
+v113.1.1 - mrdhobbs
+-Updated particles
+-File name changes for Shulker boxes and anvils (thanks to Rader2146)
+-Added dolphin texture
+-Added wooden trapdoor varieties textures
+
+v113.0.0 - mrdhobbs
+-Updated for 1.13 support
+
+v112.4.0 - mrdhobbs
+-Added remaining bed textures
+-Added concrete and concrete powder textures
+-Added illusionist texture
+
+v112.3.2 - mrdhobbs
+-Added parrot textures
+
+v112.2.2 - mrdhobbs
+-Updated shulker box textures
+-Added glazed terracotta block textures
+
+v112.1.1 - mrdhobbs
+-Updated wool block textures
+-Removed bed block textures
+-Added bed entity textures
+-Added advancement textures
+-Added recipe book textures
+
+v111.2.0 - mrdhobbs
+-Added iron nugget and shulker shell items
+
+v111.1.0 - mrdhobbs
+-Updated for 1.11 support
+-Added illager textures - evoker, vex, vindicator and fangs
+-Added llamas and carpet decorations
+-Added llama and shulker box inventories
+
+v110.2.1 - mrdhobbs
+-Added bone block, red nether brick block and magma block textures
+-Added villager variants of zombie textures
+
+v110.1.1 - mrdhobbs
+-Added mob damage heart textures
+-Added stray textures
+-Added husk textures
+-Added polar bear textures
+-Fixed acacia doors, the bottom of crafting tables and acacia and dark oak plank textures (many thanks to CAD97)
+
+v19.3.7 - mrdhobbs
+-Updated redstone dust textures
+-Added command block textures
+-Added tipped and spectral arrow textures
+
+v19.2.6 - mrdhobbs
+-Added purpur block and purpur pillar block textures
+-Added beetroot growth textures
+-Changed iron block texture (rename iron_block_original.png to iron_block.png to revert)
+
+v19.1.5 - mrdhobbs
+-Added grass path textures
+-Fixed shield textures, so applied banners are shown
+-Corrected chicken head texture (thanks to Amoox!)
+-Added elytras, lingering potions and dragon's breath
+-Added end rod, end crystal and end stone brick textures
+-Updated clock and compass textures
+-Fixed iron bar textures
+
+v19.0.4 - mrdhobbs
+-Reduced size of wooden and iron trapdoors when in hand
+-Corrected display of trapdoors and brick slabs in inventories
+-Added wooden boat varieties and chorus fruit
+
+v19.0.3 - mrdhobbs
+-Added 3D effect to doors and trapdoors
+-Reduced size of crafting table when in hand
+
+v19.0.2 - mrdhobbs
+-Reduced opacity of pumpkin blur
+
+v19.0.1 - mrdhobbs
+-Added 1.9 support
+-Changed inventory / brewing stand / creative inventory / icon textures to incorporate 1.9 updates
+-Added attack indicators
+-Added shield textures
+-Removed 3D effect for all doors and trapdoors, due to broken textures
+
+v18.1.5
+-Improved Crafting Table
+-Improved Item Frame
+-Fixed Minor Trapdoor Issue
+
+v18.1.4
+-Slightly Darkened Iron and Oak Doors
+-Fixed Font Issues
+
+v18.1.3
+-Fixed Horse Texture
+-Disabled 3D Brick Texture (Can be Re-Enabled by deleting ".disabled" in the models folder.)
+
+v18.1.2
+-Added 3D Blocks; Iron Bars, Trapdoors, Bed
+-Fixed Cauldron Bottom
+-Fixed Netherrack Tiling Issue
+-Fixed Clock only having half textures
+-Updated Gravel
+
+v18.0.1
+-Refined Minecart Textures
+-Edited Redstone Torch
+-Smoothed and Flattened Red Sandstones
